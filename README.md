@@ -27,6 +27,8 @@ The test datasets were fed to the trained model to predict the attack classes bo
 Confusion Matrix:
 In our model, the most important performance indicator (Accuracy) of intrusion detection is used to measure the performance of the RNN-IDS model. In addition to the accuracy, we introduce the detection rate and false positive rate. The True Positive (TP) is equivalent to those correctly rejected, and it denotes the number of anomaly records that are identified as anomaly. 
 
+![](images/4.png)
+
 The False Positive (FP) is the equivalent of incorrectly rejected, and it denotes the number of normal records that are identified as anomaly. The True Negative (TN) is equivalent to those correctly admitted, and it denotes the number of normal records that are identified as normal. The False Negative (FN) is equivalent to those incorrectly admitted, and it denotes the number of anomaly records that are identified as normal. Table-5.2 shows the definition of confusion matrix. We have the following notation:
 
 Accuracy: 
