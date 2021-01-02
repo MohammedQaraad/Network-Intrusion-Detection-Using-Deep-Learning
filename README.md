@@ -2,6 +2,52 @@
 
 Binary and Multi-Class Classification of NSL-KDD dataset using Multi Layered Perceptron(MLP).
 
+USER MANNUAL:
+1.	To run each code, the system must have anaconda and Jupyter Notebook installed in it.
+
+
+2.	After installing Anaconda, the packages motioned below must be installed.
+
+               pandas, keras, sklearn, numpy, dill, h5py, matplotlib
+
+3.	Open Anaconda navigator and click ‘jupyter notebook’. This will open a browser window containing list of folders like documents,desktop etc.
+
+4.	locate to the project folder(eg: Desktop/project)
+by clicking from list of given folders in the home page of jupyter notebook.
+
+5.	Click on the file(with .ipynb extention) which you want to run.
+
+6.	Run each segment of the program sequentially. Under each segment it’s corresponding output will appear.
+
+7.	After running a program, shutdown the program from upper navigator bar.
+
+List of files:
+1.  pre-processing.ipynb // Data Pre-Processing(One hot encoding, label encoding, minmax scaler)
+
+2.  binary_all.ipynb   //Binary Classification of  all features
+
+3.  binary_time.ipynb // Binary Classification for time based feature
+
+4.  binary_host.ipynb // Binary Classification for host based feature
+
+5.  binary_content.ipynb // Binary Classification for content  based feature
+
+6.  binary_basic.ipynb // Binary Classification for  basic based feature
+
+7.  multi_all.ipynb   //Multiclass Classification of  all features
+
+8.  multi_time.ipynb // Multiclass Classification for time based feature
+
+9.  multi_host.ipynb // Multiclass Classification for host based feature
+
+10.  multi_content.ipynb // Multiclass Classification for content  based feature
+
+11.  multi_basic.ipynb // Multiclass Classification for  basic based feature
+
+12.  classical_binary.ipynb // Binary Classification (using K-nearest neighbor, Decision tree, random forest classifier)
+
+13.  classical_multi.ipynb // Multiclass Classification (using K-nearest neighbor, Decision tree, random forest classifier)
+
 
 #  Basic modules:
 
