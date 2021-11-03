@@ -10,16 +10,6 @@ USER MANUAL:
 
                pandas, keras, sklearn, numpy, dill, h5py, matplotlib
 
-3.	Open Anaconda navigator and click ‘Jupyter notebook’. This will open a browser window containing a list of folders like documents, desktop, etc.
-
-4.	locate to the project folder(eg: Desktop/project)
-by clicking from the list of given folders on the home page of Jupyter notebook.
-
-5.	Click on the file(with .ipynb extension) which you want to run.
-
-6.	Run each segment of the program sequentially. Under each segment, its corresponding output will appear.
-
-7.	After running a program, shut down the program from the upper navigator bar.
 
 List of files:
 1.  pre-processing.ipynb // Data Pre-Processing(One hot encoding, label encoding, minmax scaler)
