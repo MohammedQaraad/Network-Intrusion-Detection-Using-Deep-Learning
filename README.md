@@ -12,31 +12,31 @@ USER MANUAL:
 
 
 List of files:
-1.  pre-processing.ipynb // Data Pre-Processing(One hot encoding, label encoding, minmax scaler)
+1.  pre-processing.ipynb ( Data Pre-Processing(One hot encoding, label encoding, minmax scaler )
 
-2.  binary_all.ipynb   //Binary Classification of  all features
+2.  binary_all.ipynb   ( Binary Classification of  all features )
 
-3.  binary_time.ipynb // Binary Classification for time based feature
+3.  binary_time.ipynb ( Binary Classification for time based feature )
 
-4.  binary_host.ipynb // Binary Classification for host-based feature
+4.  binary_host.ipynb ( Binary Classification for host-based feature )
 
-5.  binary_content.ipynb // Binary Classification for content-based feature
+5.  binary_content.ipynb ( Binary Classification for content-based feature )
 
-6.  binary_basic.ipynb // Binary Classification for  basic feature
+6.  binary_basic.ipynb ( Binary Classification for  basic feature )
 
-7.  multi_all.ipynb   //Multiclass Classification of  all features
+7.  multi_all.ipynb ( Multiclass Classification of  all features )
 
-8.  multi_time.ipynb // Multiclass Classification for time-based feature
+8.  multi_time.ipynb ( Multiclass Classification for time-based feature )
 
-9.  multi_host.ipynb // Multiclass Classification for host-based feature
+9.  multi_host.ipynb ( Multiclass Classification for host-based feature )
 
-10.  multi_content.ipynb // Multiclass Classification for content  based feature
+10.  multi_content.ipynb ( Multiclass Classification for content  based feature )
 
-11.  multi_basic.ipynb // Multiclass Classification for  basic feature
+11.  multi_basic.ipynb ( Multiclass Classification for  basic feature )
 
-12.  classical_binary.ipynb // Binary Classification (using K-nearest neighbor, Decision tree, random forest classifier)
+12.  classical_binary.ipynb ( Binary Classification (using K-nearest neighbor, Decision tree, random forest classifier )
 
-13.  classical_multi.ipynb // Multiclass Classification (using K-nearest neighbor, Decision tree, random forest classifier)
+13.  classical_multi.ipynb ( Multiclass Classification (using K-nearest neighbor, Decision tree, random forest classifier )
 
 
 #  Basic modules:
