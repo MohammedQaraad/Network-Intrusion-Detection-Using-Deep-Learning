@@ -12,7 +12,7 @@ USER MANUAL:
 
 
 List of files:
-1.  pre-processing.ipynb ( Data Pre-Processing(One hot encoding, label encoding, minmax scaler )
+1.  pre-processing.ipynb ( Data Pre-Processing, One hot encoding, label encoding, minmax scaler )
 
 2.  binary_all.ipynb   ( Binary Classification of  all features )
 
